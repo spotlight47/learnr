@@ -12,3 +12,15 @@ Starting with:  R Programming for Excel Users
 completed Data Camp's "Beginning R" interactive tutorial in December 2017.
 currently working with Jared Lander's book "R for Everyone" (started 12/29/2017)
 
+Outine:
+DONE - 1. Getting R
+2. The R Environment
+3. R Packages
+4. Basics of R
+5. Advanced Data Structures
+6. Reading Data into R
+7. Statisical Graphics
+8. Writing R functions
+9. Control Statements
+
+
